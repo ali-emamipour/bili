@@ -97,7 +97,11 @@ nav.navbar>div>div>ul>li>a:hover{
     footer > div > section > div > div:nth-of-type(2) > ul > li:nth-of-type(5) >a:nth-of-type(3):hover >i{
         color: #0088cc ;
      }
-    
+    @media(max-width : 372px){footer > hr
+{
+  margin-top: 50px;
+}
+    }
   /*end footer */
   
 /*!
