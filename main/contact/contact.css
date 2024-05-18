@@ -6,7 +6,7 @@ div.khatta>p> a:hover{
 div.khatta>div>a {
     width: 70px !important;
     height: 70px !important; 
-    margin: 0px 20px !important;
+    margin: 0px 15px !important;
 }
 div.khatta>div>a >i{
     scale: 2 ;

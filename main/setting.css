@@ -64,11 +64,15 @@ nav.navbar>div>div>ul>li>a:hover{
         line-height: 40px; 
         
     }
+    footer > div > section > div.d-flex> div > ul > li {
+      position: relative;
+    }
     footer > div > section > div.d-flex> div > ul > li >i{
         transform: scale(.75);
-        padding-top: 10px;
-         color: rgb(30, 157, 255);
-    
+        color: rgb(30, 157, 255);
+        position: absolute;
+        top: 19px;
+        right: -23px ;
     }
     body > footer > div > section > div> div:nth-child(2) > ul > li > p{
       text-align: right;
@@ -80,6 +84,7 @@ nav.navbar>div>div>ul>li>a:hover{
         width: 70px;
         height: 70px;
         margin: 0px 20px !important;
+        
     }
     footer > div > section > div > div:nth-of-type(2) > ul > li:nth-of-type(5) >a:nth-of-type(1):hover >i{
        color: #25D366
